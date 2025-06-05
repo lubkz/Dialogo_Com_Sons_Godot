@@ -120,11 +120,4 @@ Distribuído sob a licença MIT. Livre para usar, modificar e distribuir, com ou
 
 ---
 
-> Projeto por Seu Nome ou GitHub — sinta-se livre para contribuir ou adaptar.
-
-
-
----
-
-Se quiser, posso montar esse arquivo `.md` direto pra você baixar. Quer?
-
+> Projeto adaptado e reescrito, baseado em diversos códigos de diálogo pela internet, por Lucas — sinta-se livre para contribuir ou adaptar também.
